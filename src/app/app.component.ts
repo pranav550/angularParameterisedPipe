@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularParameterisedPipe';
+  dob=new Date(1990,5,29);
+  salary=10000000
 }
